@@ -16,7 +16,7 @@ body {
 .wrapper {
   padding: 35px 40px;
   border-radius: 20px;
-  background: #141414;
+  background: #05077b;
 }
 .wrapper header {
   display: flex;
@@ -90,7 +90,7 @@ header input {
   background: linear-gradient(#fff 96%, #eee 4%);
 }
 .piano-keys .white.active {
-  box-shadow: inset -5px 5px 20px rgba(0,0,0,0.2);
+  box-shadow: inset -5px 5px 20px rgba(7, 197, 14, 0.2);
   background:linear-gradient(to bottom, #fff 0%, #eee 100%);
 }
 .piano-keys .key span {
